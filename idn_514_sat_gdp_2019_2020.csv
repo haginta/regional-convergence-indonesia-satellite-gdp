@@ -1,0 +1,515 @@
+KDJ,KabKot,Region,Province,Regency_Ci,District_name,sat_2019,sat_2020,gdp_2019,gdp_2020
+9419,Kabupaten Sarmi,Papua,Papua,Regency,Sarmi,78.7844263,69.81123225,1834,1835
+9101,Kabupaten Fakfak,Papua,Papua Barat,Regency,Fakfak,173.3982824,244.4582222,3545,3441
+9102,Kabupaten Kaimana,Papua,Papua Barat,Regency,Kaimana,99.60406551,119.1407969,1804,1762
+1225,Kabupaten Nias Barat,Sumatera,North Sumatera,Regency,Nias Barat,18.35245889,1.564313233,1237,1257
+1201,Kabupaten Nias,Sumatera,North Sumatera,Regency,Nias,28.89811942,30.91694888,2563,2609
+1224,Kabupaten Nias Utara,Sumatera,North Sumatera,Regency,Nias Utara,7.076181442,36.14952374,2332,2369
+1101,Kabupaten Simeulue,Sumatera,Aceh,Regency,Simeulue,143.9742235,170.7355521,1601,1603
+1272,Kota Tanjung Balai,Sumatera,North Sumatera,City,Tanjung Balai,928.75014,931.8080775,5790,5763
+7412,Kabupaten Konawe Kepulauan,Sulawesi,Southeast Sulawesi,Regency,Konawe Kepulauan,57.99543993,65.15238369,1054,1047
+9415,Kabupaten Asmat,Papua,Papua,Regency,Asmat,26.42595962,0,1522,1531
+9436,Kabupaten Deiyai,Papua,Papua,Regency,Deiyai,0,1.764427185,834,831
+9434,Kabupaten Dogiyai,Papua,Papua,Regency,Dogiyai,7.956031203,5.688788593,893,896
+9435,Kabupaten Intan Jaya,Papua,Papua,Regency,Intan Jaya,0,0,762,759
+9430,Kabupaten Lanny Jaya,Papua,Papua,Regency,Lanny Jaya,0,0,1160,1181
+9431,Kabupaten Mamberamo Tengah,Papua,Papua,Regency,Mamberamo Tengah,0,0,751,759
+9111,Kabupaten Manokwari Selatan,Papua,Papua Barat,Regency,Kab. Manokwari Selatan,99.31395057,116.6450039,586,568
+9414,Kabupaten Mappi,Papua,Papua,Regency,Mappi,68.24311329,62.22065738,1884,1858
+9110,Kabupaten Maybrat,Papua,Papua Barat,Regency,Maybrat,12.99978498,25.63392648,468,462
+9404,Kabupaten Nabire,Papua,Papua,Regency,Nabire,345.9852826,391.3749361,7457,7378
+9429,Kabupaten Nduga,Papua,Papua,Regency,Nduga,0,0,788,794
+9112,Kabupaten Pegunungan Arfak,Papua,Papua Barat,Regency,Pegunungan Arfak,3.86400941,1.590990037,140,147
+9417,Kabupaten Pegunungan Bintang,Papua,Papua,Regency,Pegunungan Bintang,0,0,1410,1408
+9433,Kabupaten Puncak,Papua,Papua,Regency,Puncak,0,1.69173336,824,825
+9411,Kabupaten Puncak Jaya,Papua,Papua,Regency,Puncak Jaya,0,0.844635069,1010,977
+9109,Kabupaten Tambrauw,Papua,Papua Barat,Regency,"Tambrauw, Kab",12.15032759,15.52733228,150,147
+9418,Kabupaten Tolikara,Papua,Papua,Regency,Tolikara,1.794407114,0,1053,1058
+9416,Kabupaten Yahukimo,Papua,Papua,Regency,Yahukimo,0,0,1527,1527
+9432,Kabupaten Yalimo,Papua,Papua,Regency,Yalimo,0,1.949134469,757,765
+9427,Kabupaten Supiori,Papua,Papua,Regency,Supiori,82.22921361,83.34955566,761,769
+9426,Kabupaten Waropen,Papua,Papua,Regency,Waropen,38.67281605,26.73929888,1508,1473
+9103,Kabupaten Teluk Wondama,Papua,Papua Barat,Regency,Teluk Wondama,32.21389011,88.03123203,1012,979
+1278,Kota Gunungsitoli,Sumatera,North Sumatera,City,Gunung Sitoli,342.2561481,223.565862,3428,3442
+8208,Kabupaten Pulau Taliabu,Maluku,North Maluku,Regency,Pulau Taliabu,194.1940601,207.1638681,992,1002
+7413,Kabupaten Muna Barat,Sulawesi,Southeast Sulawesi,Regency,Muna Barat,143.2802129,180.3965722,1843,1851
+1301,Kabupaten Kepulauan Mentawai,Sumatera,West Sumatera,Regency,Kepulauan Mentawai,54.82205851,23.31175151,3012,2956
+7606,Kabupaten Mamuju Tengah,Sulawesi,West Sulawesi,Regency,Mamuju Tengah,90.56630722,60.44492146,2240,2231
+1216,Kabupaten Pakpak Bharat,Sumatera,North Sumatera,Regency,Pakpak Bharat,67.912729,84.89132054,852,851
+9106,Kabupaten Sorong Selatan,Papua,Papua Barat,Regency,Sorong Selatan,54.13211806,80.30574648,1305,1256
+1271,Kota Sibolga,Sumatera,North Sumatera,City,Sibolga,280.4938008,240.1454426,3570,3522
+1214,Kabupaten Nias Selatan,Sumatera,North Sumatera,Regency,Nias Selatan,115.370441,127.4165801,4221,4247
+9409,Kabupaten Biak Numfor,Papua,Papua,Regency,Biak Numfor,1383.27943,1528.692983,3430,3262
+1813,Kabupaten Pesisir Barat,Sumatera,Lampung,Regency,Pesisir Barat,90.41769773,163.8490783,3103,3067
+8109,Kabupaten Buru Selatan,Maluku,Maluku,Regency,Buru Selatan,60.34813285,68.87789686,892,892
+7201,Kabupaten Banggai Kepulauan,Sulawesi,Central Sulawesi,Regency,Banggai Kepulauan,127.6745022,194.2998867,2666,2587
+7415,Kabupaten Buton Selatan,Sulawesi,Southeast Sulawesi,Regency,Buton Selatan,196.3867293,223.3217712,2083,2069
+7409,Kabupaten Buton Utara,Sulawesi,Southeast Sulawesi,Regency,Buton Utara,53.51864381,69.74446356,2229,2251
+6211,Kabupaten Gunung Mas,Kalimantan,Central Kalimantan,Regency,Gunung Mas,162.8321413,246.0807067,3502,3619
+8207,Kabupaten Pulau Morotai,Maluku,North Maluku,Regency,Pulau Morotai,229.772027,357.1081932,1034,1062
+9108,Kabupaten Raja Ampat,Papua,Papua Barat,Regency,Raja Ampat,156.725385,128.9583166,2319,2285
+7211,Kabupaten Banggai Laut,Sulawesi,Central Sulawesi,Regency,Banggai Laut,147.131757,161.9433495,1674,1602
+5320,Kabupaten Sabu Raijua,Nusa Tenggara,East Nusa Tenggara,Regency,Sabu Raijua,118.511854,163.6513449,787,784
+1204,Kabupaten Tapanuli Tengah,Sumatera,North Sumatera,Regency,Tapanuli Tengah,506.5076786,565.8447269,7024,6971
+1705,Kabupaten Seluma,Sumatera,Bengkulu,Regency,Seluma,138.1719333,121.3973614,2871,2870
+9413,Kabupaten Boven Digoel,Papua,Papua,Regency,Boven Digoel,168.9573705,160.4064162,3287,3200
+7212,Kabupaten Morowali Utara,Sulawesi,Central Sulawesi,Regency,Morowali Utara,88.04718483,164.8418976,8090,8073
+1118,Kabupaten Pidie Jaya,Sumatera,Aceh,Regency,Pidie Jaya,846.4395497,710.3725054,2604,2575
+9428,Kabupaten Mamberamo Raya,Papua,Papua,Regency,Mamberamo Raya,4.72109288,11.42952102,1014,1017
+7110,Kabupaten Bolaang Mongondow Selatan,Sulawesi,North Sulawesi,Regency,Bolaang Mongondow Selatan,418.444864,491.9049017,1329,1337
+1116,Kabupaten Aceh Jaya,Sumatera,Aceh,Regency,Aceh Jaya,365.4018896,392.3541715,1995,1982
+1220,Kabupaten Padang Lawas Utara,Sumatera,North Sumatera,Regency,Padang Lawas Utara,335.0770237,154.5119488,8228,8323
+6411,Kabupaten Mahakam Hulu,Kalimantan,East Kalimantan,Regency,Mahakam Ulu,3.859717786,7.631646931,1767,1763
+7603,Kabupaten Mamasa,Sulawesi,West Sulawesi,Regency,Mamasa,49.47836004,33.7517015,2242,2214
+7408,Kabupaten Kolaka Utara,Sulawesi,Southeast Sulawesi,Regency,Kolaka Utara,56.2687956,134.6964924,6331,6357
+7108,Kabupaten Siau Tagulandang Biaro,Sulawesi,North Sulawesi,Regency,Kep. Siau Tagulandang Biaro,106.0118965,84.5158322,1594,1611
+1175,Kota Subulussalam,Sumatera,Aceh,City,Subulussalam,393.2477542,474.6517158,1359,1385
+8203,Kabupaten Kepulauan Sula,Maluku,North Maluku,Regency,Kepulauan Sula,151.7010159,163.0162369,1641,1648
+1312,Kabupaten Pasaman Barat,Sumatera,West Sumatera,Regency,Pasaman Barat,522.5903787,612.9508031,11412,11259
+1221,Kabupaten Padang Lawas,Sumatera,North Sumatera,Regency,Padang Lawas,298.797994,325.0639691,7959,8053
+7322,Kabupaten Luwu Utara,Sulawesi,South Sulawesi,Regency,Luwu Utara,25.03110778,165.1771768,8221,8173
+1105,Kabupaten Aceh Timur,Sumatera,Aceh,Regency,Aceh Timur,5957.143618,3836.269213,8147,8293
+5316,Kabupaten Sumba Tengah,Nusa Tenggara,East Nusa Tenggara,Regency,Sumba Tengah,66.62238648,89.2683332,750,757
+7317,Kabupaten Luwu,Sulawesi,South Sulawesi,Regency,Luwu,203.6430326,224.6693945,9729,9856
+1608,Kabupaten Ogan Komering Ulu Selatan,Sumatera,South Sumatera,Regency,Ogan Komering Ulu Selatan,144.6387713,167.512841,5711,5732
+7605,Kabupaten Mamuju Utara,Sulawesi,West Sulawesi,Regency,Mamuju Utara,202.8002964,170.3786658,7319,7123
+7401,Kabupaten Buton,Sulawesi,Southeast Sulawesi,Regency,Buton,208.2609183,252.7133034,2767,2752
+1109,Kabupaten Pidie,Sumatera,Aceh,Regency,Pidie,1517.453916,1301.955756,7780,7770
+1217,Kabupaten Samosir,Sumatera,North Sumatera,Regency,Samosir,192.0625577,113.181258,3099,3080
+7414,Kabupaten Buton Tengah,Sulawesi,Southeast Sulawesi,Regency,Buton Tengah,196.1315641,290.0663044,1678,1729
+7209,Kabupaten Tojo Una-Una,Sulawesi,Central Sulawesi,Regency,Tojo Una-Una,434.5050269,494.5183842,3847,3724
+8108,Kabupaten Maluku Barat Daya,Maluku,Maluku,Regency,Maluku Barat Daya,477.0200676,461.6241711,1065,1064
+7301,Kabupaten Kepulauan Selayar,Sulawesi,South Sulawesi,Regency,Kepulauan Selayar,135.4938835,163.0377644,3686,3620
+7104,Kabupaten Kepulauan Talaud,Sulawesi,North Sulawesi,Regency,Kepulauan Talaud,125.6548878,148.8903648,1605,1612
+1202,Kabupaten Mandailing Natal,Sumatera,North Sumatera,Regency,Mandailing Natal,796.4552733,772.9602501,9376,9289
+6210,Kabupaten Pulang Pisau,Kalimantan,Central Kalimantan,Regency,Pulang Pisau,461.3396989,432.0170642,3393,3485
+6111,Kabupaten Kayong Utara,Kalimantan,West Kalimantan,Regency,Kayong Utara,139.9157216,143.0878548,2538,2519
+1107,Kabupaten Aceh Barat,Sumatera,Aceh,Regency,Aceh Barat,1109.822557,1082.158257,6953,7083
+7411,Kabupaten Kolaka Timur,Sulawesi,Southeast Sulawesi,Regency,Kolaka Timur,289.282418,303.4297913,3267,3257
+1707,Kabupaten Lebong,Sumatera,Bengkulu,Regency,Lebong,57.29076397,67.46735156,2124,2127
+7406,Kabupaten Bombana,Sulawesi,Southeast Sulawesi,Regency,Bombana,313.2132295,405.6425519,4682,4709
+9408,Kabupaten Kepulauan Yapen,Papua,Papua,Regency,Kepulauan Yapen,530.9559697,444.2052947,2899,2770
+7410,Kabupaten Konawe Utara,Sulawesi,Southeast Sulawesi,Regency,Konawe Utara,228.7552728,360.8947037,2849,2828
+6109,Kabupaten Sekadau,Kalimantan,West Kalimantan,Regency,Sekadau,229.5838424,156.0615007,4294,4252
+7207,Kabupaten Buol,Sulawesi,Central Sulawesi,Regency,Buol,319.5673376,253.6165637,3962,3847
+1704,Kabupaten Kaur,Sumatera,Bengkulu,Regency,Kaur,99.35208735,123.1367765,2261,2264
+7103,Kabupaten Kepulauan Sangihe,Sulawesi,North Sulawesi,Regency,Kepulauan Sangihe,181.3899515,202.468855,3010,3025
+6209,Kabupaten Katingan,Kalimantan,Central Kalimantan,Regency,Katingan,372.1433096,350.2570798,5110,4944
+5319,Kabupaten Manggarai Timur,Nusa Tenggara,East Nusa Tenggara,Regency,Manggarai Timur,160.4819747,205.936162,2024,2042
+7505,Kabupaten Gorontalo Utara,Sulawesi,Gorontalo,Regency,Gorontalo Utara,551.6438461,496.5600653,2325,2325
+8202,Kabupaten Halmahera Tengah,Maluku,North Maluku,Regency,Halmahera Tengah,413.6391444,755.0319082,1522,1923
+7601,Kabupaten Majene,Sulawesi,West Sulawesi,Regency,Majene,159.3754724,167.1115261,3576,3527
+1102,Kabupaten Aceh Singkil,Sumatera,Aceh,Regency,Aceh Singkil,470.1378493,667.7350575,1731,1711
+9420,Kabupaten Keerom,Papua,Papua,Regency,Keerom,328.9088184,356.1095887,1991,1993
+1701,Kabupaten Bengkulu Selatan,Sumatera,Bengkulu,Regency,Bengkulu Selatan,132.1780033,242.8000362,3615,3625
+2105,Kabupaten Kepulauan Anambas,Sumatera,Riau Islands,Regency,Kepulauan Anambas,135.6520816,120.5931268,12047,11104
+1215,Kabupaten Humbang Hasundutan,Sumatera,North Sumatera,Regency,Humbang Hasundutan,140.5830043,185.1984979,4141,4136
+1104,Kabupaten Aceh Tenggara,Sumatera,Aceh,Regency,Aceh Tenggara,77.88186073,325.4958497,3442,3436
+1173,Kota Langsa,Sumatera,Aceh,City,Langsa,1157.812165,1188.988349,3856,3815
+1113,Kabupaten Gayo Lues,Sumatera,Aceh,Regency,Gayo Lues,84.32213202,155.6314909,1920,1937
+1611,Kabupaten Empat Lawang,Sumatera,South Sumatera,Regency,Empat Lawang,97.76477543,30.15872726,3470,3473
+3101,Kabupaten Kepulauan Seribu,Java -Bali,Jakarta,Regency,Kepulauan Seribu,71.00861317,74.22577643,3900,3711
+8106,Kabupaten Seram Bagian Barat,Maluku,Maluku,Regency,Seram Bagian Barat,264.0439447,229.8276526,1967,1963
+7407,Kabupaten Wakatobi,Sulawesi,Southeast Sulawesi,Regency,Wakatobi,276.5210167,313.6307833,3073,3097
+5321,Kabupaten Malaka,Nusa Tenggara,East Nusa Tenggara,Regency,Malaka,316.4500213,430.9000573,1860,1878
+5314,Kabupaten Rote Ndao,Nusa Tenggara,East Nusa Tenggara,Regency,Rote Ndao,256.040474,324.7702782,1928,1933
+8201,Kabupaten Halmahera Barat,Maluku,North Maluku,Regency,Halmahera Barat,322.279936,380.5971868,1524,1534
+1709,Kabupaten Bengkulu Tengah,Sumatera,Bengkulu,Regency,Bengkulu Tengah,161.3547107,394.813523,2887,2885
+8102,Kabupaten Maluku Tenggara,Maluku,Maluku,Regency,Maluku Tenggara,281.0917164,318.4101265,1971,1967
+8101,Kabupaten Maluku Tenggara Barat,Maluku,Maluku,Regency,Maluku Tenggara Barat,254.1752751,298.2313898,1686,1685
+5317,Kabupaten Sumba Barat Daya,Nusa Tenggara,East Nusa Tenggara,Regency,Sumba Barat Daya,245.0212876,291.7864407,2305,2307
+6102,Kabupaten Bengkayang,Kalimantan,West Kalimantan,Regency,Bengkayang,316.7772359,421.4710362,5714,5600
+7326,Kabupaten Toraja Utara,Sulawesi,South Sulawesi,Regency,Toraja Utara,232.7672156,234.461728,5140,5149
+1310,Kabupaten Solok Selatan,Sumatera,West Sumatera,Regency,Solok Selatan,203.4297455,163.2449764,3977,3928
+6207,Kabupaten Lamandau,Kalimantan,Central Kalimantan,Regency,Lamandau,284.5630051,144.5660892,3747,3816
+8172,Kota Tual,Maluku,Maluku,City,"Tual, Kota",273.9988101,383.3482581,1501,1498
+6206,Kabupaten Sukamara,Kalimantan,Central Kalimantan,Regency,Sukamara,214.6977727,215.5572482,2849,2905
+7316,Kabupaten Enrekang,Sulawesi,South Sulawesi,Regency,Enrekang,237.0136182,249.9836863,4536,4592
+8105,Kabupaten Kepulauan Aru,Maluku,Maluku,Regency,Kepulauan Aru,157.9694812,171.4362205,2279,2278
+5318,Kabupaten Nagekeo,Nusa Tenggara,East Nusa Tenggara,Regency,Nagekeo,254.3760473,314.9389565,1370,1379
+5307,Kabupaten Alor,Nusa Tenggara,East Nusa Tenggara,Regency,Alor,271.7769565,332.6152651,2007,1996
+1309,Kabupaten Pasaman,Sumatera,West Sumatera,Regency,Pasaman,175.5045682,238.7492619,6176,6123
+5308,Kabupaten Lembata,Nusa Tenggara,East Nusa Tenggara,Regency,Lembata,219.9819472,267.7388627,1167,1163
+2103,Kabupaten Natuna,Sumatera,Riau Islands,Regency,Natuna,262.1031841,317.7460341,15299,14643
+5315,Kabupaten Manggarai Barat,Nusa Tenggara,East Nusa Tenggara,Regency,Manggarai Barat,500.4625034,498.1442111,2247,2268
+1222,Kabupaten Labuhan Batu Selatan,Sumatera,North Sumatera,Regency,Labuhan Batu Selatan,1262.162604,1390.419005,18750,18899
+1706,Kabupaten Mukomuko,Sumatera,Bengkulu,Regency,Mukomuko,186.0051728,230.067435,3325,3326
+1304,Kabupaten Sijunjung,Sumatera,West Sumatera,Regency,Sijunjung,614.0490804,537.2907268,6757,6683
+5301,Kabupaten Sumba Barat,Nusa Tenggara,East Nusa Tenggara,Regency,Sumba Barat,170.3443846,189.7906556,1441,1437
+8104,Kabupaten Buru,Maluku,Maluku,Regency,Buru,655.5741163,645.8497309,1564,1564
+7318,Kabupaten Tana Toraja,Sulawesi,South Sulawesi,Regency,Tana Toraja,260.8751955,206.34886,4558,4545
+7501,Kabupaten Boalemo,Sulawesi,Gorontalo,Regency,Boalemo,707.7065233,781.1369175,3504,3497
+7312,Kabupaten Soppeng,Sulawesi,South Sulawesi,Regency,Soppeng,567.0726304,620.5880334,6994,7147
+7107,Kabupaten Bolaang Mongondow Utara,Sulawesi,North Sulawesi,Regency,Bolaang Mongondow Utara,564.2564305,585.3164428,1679,1691
+1117,Kabupaten Bener Meriah,Sumatera,Aceh,Regency,Bener Meriah,311.896795,302.0522728,3627,3636
+8272,Kota Tidore Kepulauan,Maluku,North Maluku,City,"Kepulauan Tidore, Kota",499.9282804,562.2520757,2018,2058
+5312,Kabupaten Ngada,Nusa Tenggara,East Nusa Tenggara,Regency,Ngada,187.7730265,232.7387428,2310,2311
+1106,Kabupaten Aceh Tengah,Sumatera,Aceh,Regency,Aceh Tengah,517.4997623,416.2098353,5837,5766
+7604,Kabupaten Mamuju,Sulawesi,West Sulawesi,Capital City,Mamuju,546.2477854,540.8071793,8360,8186
+7503,Kabupaten Pohuwato,Sulawesi,Gorontalo,Regency,Pohuwato,1008.024174,1161.471796,4610,4602
+7303,Kabupaten Bantaeng,Sulawesi,South Sulawesi,Regency,Bantaeng,692.7658841,756.1199745,5622,5651
+1401,Kabupaten Kuantan Singingi,Sumatera,Riau,Regency,Kuantan Singingi,531.4528191,712.7186682,23613,23844
+5309,Kabupaten Flores Timur,Nusa Tenggara,East Nusa Tenggara,Regency,Flores Timur,376.1624222,457.3393615,3494,3524
+8206,Kabupaten Halmahera Timur,Maluku,North Maluku,Regency,Halmahera Timur,487.1297115,603.7006286,2300,2313
+6103,Kabupaten Landak,Kalimantan,West Kalimantan,Regency,Landak,309.5127036,219.7148164,7022,6975
+1373,Kota Sawah Lunto,Sumatera,West Sumatera,City,Sawahlunto,410.3767292,373.7925809,2797,2761
+1203,Kabupaten Tapanuli Selatan,Sumatera,North Sumatera,Regency,Tapanuli Selatan,1059.304298,1204.10224,9684,9722
+1172,Kota Sabang,Sumatera,Aceh,City,Sabang,418.9065647,368.8097935,1138,1124
+1103,Kabupaten Aceh Selatan,Sumatera,Aceh,Regency,Aceh Selatan,236.1471275,376.6243523,4243,4241
+9402,Kabupaten Jayawijaya,Papua,Papua,Regency,Jayawijaya,156.5493448,198.8117076,4747,4553
+2104,Kabupaten Lingga,Sumatera,Riau Islands,Regency,Lingga,215.2696388,279.0716804,2935,2915
+1277,Kota Padangsidimpuan,Sumatera,North Sumatera,City,Padang Sidempuan,937.2225071,734.54696,4261,4230
+6308,Kabupaten Hulu Sungai Utara,Kalimantan,South Kalimantan,Regency,Hulu Sungai Utara,409.0234306,445.5562966,3326,3303
+7307,Kabupaten Sinjai,Sulawesi,South Sulawesi,Regency,Sinjai,422.4745068,419.1215403,7090,7200
+7373,Kota Palopo,Sulawesi,South Sulawesi,City,Palopo,770.4964522,632.5636882,5447,5472
+1801,Kabupaten Lampung Barat,Sumatera,Lampung,Regency,Lampung Barat,391.0921266,363.7259811,4985,4928
+7204,Kabupaten Poso,Sulawesi,Central Sulawesi,Regency,Poso,560.1466606,629.957862,6476,6224
+7203,Kabupaten Morowali,Sulawesi,Central Sulawesi,Regency,Morowali,2262.127149,2179.201924,34086,43948
+1223,Kabupaten Labuhan Batu Utara,Sumatera,North Sumatera,Regency,Labuhan Batu Utara,793.3915268,929.5898855,17259,17307
+6110,Kabupaten Melawi,Kalimantan,West Kalimantan,Regency,Melawi,186.6529534,138.6443693,3390,3353
+8204,Kabupaten Halmahera Selatan,Maluku,North Maluku,Regency,Halmahera Selatan,1282.63006,1610.528721,4879,5671
+6306,Kabupaten Hulu Sungai Selatan,Kalimantan,South Kalimantan,Regency,Hulu Sungai Selatan,909.3189006,928.3138551,4707,4651
+7109,Kabupaten Minahasa Tenggara,Sulawesi,North Sulawesi,Regency,Minahasa Tenggara,785.8985928,785.6072355,3638,3614
+7206,Kabupaten Toli-Toli,Sulawesi,Central Sulawesi,Regency,Toli-Toli,631.9013962,603.3098346,5729,5539
+7205,Kabupaten Donggala,Sulawesi,Central Sulawesi,Regency,Donggala,978.2841456,1027.487412,8522,8107
+5305,Kabupaten Timor Tengah Utara,Nusa Tenggara,East Nusa Tenggara,Regency,Timor Tengah Utara,425.2516094,496.2598164,2900,2884
+7602,Kabupaten Polewali Mandar,Sulawesi,West Sulawesi,Regency,Polewali Mandar,478.2565419,441.7111396,9396,9250
+9104,Kabupaten Teluk Bintuni,Papua,Papua Barat,Regency,Teluk Bintuni,1616.336079,1881.902429,25380,25649
+1210,Kabupaten Dairi,Sumatera,North Sumatera,Regency,Dairi,461.4236166,362.6514546,6570,6508
+1115,Kabupaten Nagan Raya,Sumatera,Aceh,Regency,Nagan Raya,674.0088751,722.4360917,6530,6762
+1708,Kabupaten Kepahiang,Sumatera,Bengkulu,Regency,Kepahiang,217.6517179,256.1354681,2804,2806
+7310,Kabupaten Barru,Sulawesi,South Sulawesi,Regency,Barru,706.1699098,752.0788588,4797,4839
+6204,Kabupaten Barito Selatan,Kalimantan,Central Kalimantan,Regency,Barito Selatan,608.4272927,482.0566588,4367,4240
+7111,Kabupaten Bolaang Mongondow Timur,Sulawesi,North Sulawesi,Regency,Bolaang Mongondow Timur,349.2900893,378.2515977,1878,1882
+7402,Kabupaten Muna,Sulawesi,Southeast Sulawesi,Regency,Muna,415.8219775,466.9495656,5068,5071
+1311,Kabupaten Dharmasraya,Sumatera,West Sumatera,Regency,Dharmasraya,876.9398619,896.8960502,7560,7455
+6501,Kabupaten Malinau,Kalimantan,North Kalimantan,Regency,Malinau,644.2496364,780.0382545,7846,7797
+6307,Kabupaten Hulu Sungai Tengah,Kalimantan,South Kalimantan,Regency,Hulu Sungai Tengah,419.1713357,464.2422997,4883,4834
+1111,Kabupaten Aceh Utara,Sumatera,Aceh,Regency,Aceh Utara,4751.963761,3679.306958,16853,17015
+9105,Kabupaten Manokwari,Papua,Papua Barat,Regency,Manokwari,1397.89254,1508.785574,6928,6592
+6503,Kabupaten Tana Tidung,Kalimantan,North Kalimantan,Regency,Tana Tidung,644.6595309,752.5318864,3676,3649
+1502,Kabupaten Merangin,Sumatera,Jambi,Regency,Merangin,612.350702,426.3349688,9789,9866
+7313,Kabupaten Wajo,Sulawesi,South Sulawesi,Regency,Wajo,915.2160099,947.4969907,12858,12708
+5302,Kabupaten Sumba Timur,Nusa Tenggara,East Nusa Tenggara,Regency,Sumba Timur,531.1551669,603.3705572,4001,3968
+5313,Kabupaten Manggarai,Nusa Tenggara,East Nusa Tenggara,Regency,Manggarai,456.6075225,564.6100803,3018,2995
+1811,Kabupaten Mesuji,Sumatera,Lampung,Regency,Mesuji,953.9042313,1283.67556,7006,6911
+6208,Kabupaten Seruyan,Kalimantan,Central Kalimantan,Regency,Seruyan,718.9377808,757.8024951,6043,5908
+1110,Kabupaten Bireuen,Sumatera,Aceh,Regency,Bireuen,2754.392957,2796.376323,10065,9971
+7315,Kabupaten Pinrang,Sulawesi,South Sulawesi,Regency,Pinrang,1007.78848,889.1272168,12770,12826
+1501,Kabupaten Kerinci,Sumatera,Jambi,Regency,Kerinci,322.0310653,401.9585935,6327,6560
+7314,Kabupaten Sidenreng Rappang,Sulawesi,South Sulawesi,Regency,Sidenreng Rappang,1124.109623,1011.257928,8451,8401
+1114,Kabupaten Aceh Tamiang,Sumatera,Aceh,Regency,Aceh Tamiang,1885.088895,1762.693767,5984,6009
+1274,Kota Tebing Tinggi,Sumatera,North Sumatera,City,Tebing Tinggi,1184.566614,1202.561124,3954,3926
+8103,Kabupaten Maluku Tengah,Maluku,Maluku,Regency,Maluku Tengah,693.3983543,677.8142384,5863,5840
+5208,Kabupaten Lombok Utara,Nusa Tenggara,West Nusa Tenggara,Regency,Lombok Utara,1079.283052,1177.485013,3478,3219
+1703,Kabupaten Bengkulu Utara,Sumatera,Bengkulu,Regency,Bengkulu Utara,219.1319465,290.9025003,5205,5216
+1303,Kabupaten Solok,Sumatera,West Sumatera,Regency,Solok,679.6696818,606.2948404,9905,9794
+7403,Kabupaten Konawe,Sulawesi,Southeast Sulawesi,Regency,Konawe,2983.103704,3606.082775,6905,7348
+5306,Kabupaten Belu,Nusa Tenggara,East Nusa Tenggara,Regency,Belu,644.5408258,756.9739915,2957,2968
+5311,Kabupaten Ende,Nusa Tenggara,East Nusa Tenggara,Regency,Ende,534.3891868,600.62394,4131,4076
+1407,Kabupaten Rokan Hulu,Sumatera,Riau,Regency,Rokan Hulu,1969.78932,1851.222374,25102,25480
+6105,Kabupaten Sanggau,Kalimantan,West Kalimantan,Regency,Sanggau,824.4885789,877.9000493,13163,13256
+7504,Kabupaten Bone Bolango,Sulawesi,Gorontalo,Regency,Bone Bolango,1324.981897,1293.117751,3154,3156
+5310,Kabupaten Sikka,Nusa Tenggara,East Nusa Tenggara,Regency,Sikka,741.483074,771.9874721,3334,3306
+1112,Kabupaten Aceh Barat Daya,Sumatera,Aceh,Regency,Aceh Barat Daya,424.4510628,663.3631193,3003,2988
+5304,Kabupaten Timor Tengah Selatan,Nusa Tenggara,East Nusa Tenggara,Regency,Timor Tengah Selatan,587.873961,695.142717,4772,4769
+1205,Kabupaten Tapanuli Utara,Sumatera,North Sumatera,Regency,Tapanuli Utara,693.7628336,706.0556501,5765,5851
+8107,Kabupaten Seram Bagian Timur,Maluku,Maluku,Regency,Seram Bagian Timur,487.7509173,526.3324243,1937,1936
+7208,Kabupaten Parigi Moutong,Sulawesi,Central Sulawesi,Regency,Parigi Moutong,1063.323105,1134.052715,11690,11114
+1206,Kabupaten Toba Samosir,Sumatera,North Sumatera,Regency,Toba Samosir,762.7636383,658.2196641,5504,5489
+1572,Kota Sungai Penuh,Sumatera,Jambi,City,Sungai Penuh,860.2466231,862.2419909,4610,4603
+6205,Kabupaten Barito Utara,Kalimantan,Central Kalimantan,Regency,Barito Utara,1854.97198,1423.840751,7115,6955
+1209,Kabupaten Simalungun,Sumatera,North Sumatera,Regency,Simalungun,2210.424069,2026.968608,27349,27626
+1702,Kabupaten Rejang Lebong,Sumatera,Bengkulu,Regency,Rejang Lebong,493.7414615,539.8183751,6079,6083
+7101,Kabupaten Bolaang Mongondow,Sulawesi,North Sulawesi,Regency,Bolaang Mongondow,1340.474235,1385.032825,5444,5488
+7202,Kabupaten Banggai,Sulawesi,Central Sulawesi,Regency,Banggai,5242.502423,5456.250784,19512,18579
+7105,Kabupaten Minahasa Selatan,Sulawesi,North Sulawesi,Regency,Minahasa Selatan,1062.792447,1142.174661,6120,6073
+7405,Kabupaten Konawe Selatan,Sulawesi,Southeast Sulawesi,Regency,Konawe Selatan,1453.364729,1740.993424,8443,8256
+1613,Kabupaten Musi Rawas Utara,Sumatera,South Sumatera,Regency,Musi Rawas Utara,703.7258371,363.9873743,5553,5573
+1308,Kabupaten Lima Puluh Kota,Sumatera,West Sumatera,Regency,Limapuluh Kota,337.2606152,574.5494136,11192,11062
+6101,Kabupaten Sambas,Kalimantan,West Kalimantan,Regency,Sambas,687.3047875,724.5637977,13643,13367
+5205,Kabupaten Dompu,Nusa Tenggara,West Nusa Tenggara,Regency,Dompu,937.8497411,1126.705301,5059,4897
+9410,Kabupaten Paniai,Papua,Papua,Regency,Paniai,250.5324965,240.5415587,3021,3035
+1905,Kabupaten Bangka Selatan,Sumatera,Bangka Belitung Islands,Regency,Bangka Selatan,571.3402028,585.085149,6178,6054
+1302,Kabupaten Pesisir Selatan,Sumatera,West Sumatera,Regency,Pesisir Selatan,872.9008816,1058.781295,9577,9471
+6213,Kabupaten Murung Raya,Kalimantan,Central Kalimantan,Regency,Murung Raya,1177.186679,974.9457078,5868,5722
+1377,Kota Pariaman,Sumatera,West Sumatera,City,"Pariaman, Kota",755.5233153,905.6133854,3592,3545
+1219,Kabupaten Batu Bara,Sumatera,North Sumatera,Regency,Batu Bara,3119.663955,3325.307942,23999,23924
+7302,Kabupaten Bulukumba,Sulawesi,South Sulawesi,Regency,Bulukumba,2600.347303,2371.783905,8567,8604
+9171,Kota Sorong,Papua,Papua Barat,Capital City,"Sorong, Kota",1502.309828,1562.145754,10473,10135
+1374,Kota Padang Panjang,Sumatera,West Sumatera,City,Padang Panjang,451.8599603,396.4800085,2581,2543
+6212,Kabupaten Barito Timur,Kalimantan,Central Kalimantan,Regency,Barito Timur,740.8505363,517.7330731,5328,5183
+7174,Kota Kotamobagu,Sulawesi,North Sulawesi,City,Kotamobagu,686.7113127,691.2208787,2392,2397
+1903,Kabupaten Bangka Barat,Sumatera,Bangka Belitung Islands,Regency,Bangka Barat,613.5535059,697.7599272,10897,10306
+1207,Kabupaten Labuhan Batu,Sumatera,North Sumatera,Regency,Labuhan Batu,1819.782468,1911.590285,23233,23253
+9403,Kabupaten Jayapura,Papua,Papua,Regency,Jayapura,996.2728937,1316.952959,9988,9518
+1306,Kabupaten Padang Pariaman,Sumatera,West Sumatera,Regency,Padang Pariaman,1046.893455,1329.901726,13335,11939
+5303,Kabupaten Kupang,Nusa Tenggara,East Nusa Tenggara,Regency,Kupang,1311.444026,1697.006186,4831,4792
+1508,Kabupaten Tebo,Sumatera,Jambi,Regency,Tebo,846.9616715,818.2658321,10161,10157
+1208,Kabupaten Asahan,Sumatera,North Sumatera,Regency,Asahan,3827.02166,3470.181149,26245,26300
+5272,Kota Bima,Nusa Tenggara,West Nusa Tenggara,City,Bima,1007.97096,1100.783283,3029,2879
+3218,Kabupaten Pangandaran,Java -Bali,West Java,Regency,Pangandaran,1282.004573,1090.375752,7743,7739
+7173,Kota Tomohon,Sulawesi,North Sulawesi,City,Tomohon,764.9986704,855.7931049,3163,3150
+6203,Kabupaten Kapuas,Kalimantan,Central Kalimantan,Regency,Kapuas,1699.715578,1383.664797,10912,10798
+6172,Kota Singkawang,Kalimantan,West Kalimantan,City,Singkawang,1515.174356,1814.175136,6833,6666
+1509,Kabupaten Bungo,Sumatera,Jambi,Regency,Bungo,1356.293685,1328.290074,12558,12508
+5106,Kabupaten Bangli,Java -Bali,Bali,Regency,Bangli,985.4690507,1048.384284,4588,4400
+1812,Kabupaten Tulang Bawang Barat,Sumatera,Lampung,Regency,Tulang Bawang,1824.713386,1991.974603,7851,7747
+9401,Kabupaten Merauke,Papua,Papua,Regency,Merauke,1388.323914,1653.967138,10309,10230
+8271,Kota Ternate,Maluku,North Maluku,Capital City,"Ternate, Kota",1238.787508,1200.515678,7286,7224
+7404,Kabupaten Kolaka,Sulawesi,Southeast Sulawesi,Regency,Kolaka,1301.791571,1561.029466,18873,18232
+7210,Kabupaten Sigi,Sulawesi,Central Sulawesi,Regency,Sigi,1839.848873,1872.028617,6207,6085
+7372,Kota Parepare,Sulawesi,South Sulawesi,City,"Parepare,",1023.708705,952.0445562,4948,4944
+1305,Kabupaten Tanah Datar,Sumatera,West Sumatera,Regency,Tanah Datar,607.4947775,706.6486995,9684,9576
+1807,Kabupaten Way Kanan,Sumatera,Lampung,Regency,Way Kanan,2939.198143,2272.392452,9574,9463
+3371,Kota Magelang,Java -Bali,Central Java,City,Magelang,604.2236739,632.3039303,6473,6314
+7472,Kota Baubau,Sulawesi,Southeast Sulawesi,City,"Bau-Bau, Kota",1154.052493,1338.269083,6626,6572
+6104,Kabupaten Mempawah,Kalimantan,West Kalimantan,Regency,Mempawah,1885.434197,1641.823743,5242,5252
+1906,Kabupaten Belitung Timur,Sumatera,Bangka Belitung Islands,Regency,Belitung Timur,715.2413989,758.8463389,5501,5465
+5206,Kabupaten Bima,Nusa Tenggara,West Nusa Tenggara,Regency,Bima,1289.993199,1541.378989,8234,7947
+1276,Kota Binjai,Sumatera,North Sumatera,City,Binjai,2743.668961,2421.801984,8134,7984
+1307,Kabupaten Agam,Sumatera,West Sumatera,Regency,Agam,1165.999218,1245.069363,14609,14407
+8205,Kabupaten Halmahera Utara,Maluku,North Maluku,Regency,Halmahera Utara,1044.99885,1025.436877,3767,3761
+6571,Kota Tarakan,Kalimantan,North Kalimantan,Capital City,Tarakan,1673.554911,2152.714299,22223,22050
+1504,Kabupaten Batang Hari,Sumatera,Jambi,Regency,Batang Hari,1777.29647,1815.054066,11697,11666
+1802,Kabupaten Tanggamus,Sumatera,Lampung,Regency,Tanggamus,2170.577347,2181.613072,10872,10679
+7305,Kabupaten Takalar,Sulawesi,South Sulawesi,Regency,Takalar,1532.698041,1505.886526,6616,6576
+7311,Kabupaten Bone,Sulawesi,South Sulawesi,Regency,Bone,1740.069271,1642.282662,22108,22054
+6108,Kabupaten Kapuas Hulu,Kalimantan,West Kalimantan,Regency,Kapuas Hulu,295.4663936,123.8699438,6393,6238
+1376,Kota Payakumbuh,Sumatera,West Sumatera,City,Payakumbuh,602.6142483,698.4550828,4488,4414
+1213,Kabupaten Langkat,Sumatera,North Sumatera,Regency,Langkat,6159.386644,4375.663326,29598,29343
+1402,Kabupaten Indragiri Hulu,Sumatera,Riau,Regency,Indragiri Hulu,1685.031182,1956.63333,29866,29831
+6409,Kabupaten Penajam Paser Utara,Kalimantan,East Kalimantan,Regency,Penajam Paser Utara,1739.641006,1795.240926,6763,6604
+1273,Kota Pematang Siantar,Sumatera,North Sumatera,City,Pematang Siantar,1556.754478,1371.732864,9612,9430
+1810,Kabupaten Pringsewu,Sumatera,Lampung,Regency,Pringsewu,2480.84415,2508.02065,7742,7649
+1372,Kota Solok,Sumatera,West Sumatera,City,Solok,860.4582226,819.8505685,2876,2836
+1218,Kabupaten Serdang Bedagai,Sumatera,North Sumatera,Regency,Serdang Bedagai,5149.123335,5157.845088,19393,19308
+6202,Kabupaten Kotawaringin Timur,Kalimantan,Central Kalimantan,Regency,Kotawaringin Timur,2368.05949,2889.95449,18464,17892
+3572,Kota Blitar,Java -Bali,East Java,City,Blitar,988.1453189,1001.67342,4833,4723
+3503,Kabupaten Trenggalek,Java -Bali,East Java,Regency,Trenggalek,2047.780655,2019.0419670000001,12779,12502
+1375,Kota Bukittinggi,Sumatera,West Sumatera,City,Bukittinggi,834.7772829,716.7336568,6152,6045
+1108,Kabupaten Aceh Besar,Sumatera,Aceh,Regency,Aceh Besar,5896.815918,6346.78108,9978,10009
+1410,Kabupaten Kepulauan Meranti,Sumatera,Riau,Regency,Kepulauan Meranti,1412.969756,1128.384344,12629,12684
+1674,Kota Lubuklinggau,Sumatera,South Sumatera,City,Lubuklinggau,1145.169851,1151.598129,4340,4334
+1673,Kota Pagar Alam,Sumatera,South Sumatera,City,Pagar Alam,512.3052255,484.8340821,2234,2234
+5105,Kabupaten Klungkung,Java -Bali,Bali,Regency,Klungkung,1508.059162,1417.245148,5991,5611
+1403,Kabupaten Indragiri Hilir,Sumatera,Riau,Regency,Indragiri Hilir,2259.156905,2372.734346,44776,44928
+3279,Kota Banjar,Java -Bali,West Java,City,Banjar,865.8079588,803.7322844,3221,3255
+1211,Kabupaten Karo,Sumatera,North Sumatera,Regency,Karo,1109.447063,1038.184376,14376,14261
+6304,Kabupaten Barito Kuala,Kalimantan,South Kalimantan,Regency,Barito Kuala,1589.983152,1452.001426,5823,5762
+3401,Kabupaten Kulon Progo,Java -Bali,Yogyakarta,Regency,Kulon Progo,2939.972271,2944.044848,8771,8415
+1904,Kabupaten Bangka Tengah,Sumatera,Bangka Belitung Islands,Regency,Bangka Tengah,1202.517094,1281.563752,5884,5715
+7502,Kabupaten Gorontalo,Sulawesi,Gorontalo,Regency,Gorontalo,2763.064016,2655.905332,8869,8868
+9471,Kota Jayapura,Papua,Papua,Capital City,"Jayapura, Kota",2833.94674,3113.251327,22896,22514
+3501,Kabupaten Pacitan,Java -Bali,East Java,Regency,Pacitan,1660.360616,1621.267953,11041,10838
+6271,Kota Palangka Raya,Kalimantan,Central Kalimantan,Capital City,Palangkaraya,2957.049044,2730.653703,10885,10594
+6106,Kabupaten Ketapang,Kalimantan,West Kalimantan,Regency,Ketapang,2177.367603,1748.489471,18022,17933
+6305,Kabupaten Tapin,Kalimantan,South Kalimantan,Regency,Tapin,2156.380492,1977.651287,6456,6359
+1609,Kabupaten Ogan Komering Ulu Timur,Sumatera,South Sumatera,Regency,Ogan Komering Ulu Timur,3361.22079,2980.76815,10013,10054
+7172,Kota Bitung,Sulawesi,North Sulawesi,City,Bitung,1660.283926,1684.711056,11172,11325
+7304,Kabupaten Jeneponto,Sulawesi,South Sulawesi,Regency,Jeneponto,2820.770304,2725.691769,6686,6696
+7106,Kabupaten Minahasa Utara,Sulawesi,North Sulawesi,Regency,Minahasa Utara,2725.935511,3011.509497,9364,9277
+3577,Kota Madiun,Java -Bali,East Java,City,Madiun,1694.512436,1704.259746,10623,10262
+1902,Kabupaten Belitung,Sumatera,Bangka Belitung Islands,Regency,Belitung,1821.279767,1946.417149,6502,6352
+5101,Kabupaten Jembrana,Java -Bali,Bali,Regency,Jembrana,1728.843878,1792.908223,9420,8953
+3576,Kota Mojokerto,Java -Bali,East Java,City,Mojokerto,1303.976184,1292.476504,4986,4801
+5107,Kabupaten Karang Asem,Java -Bali,Central Java,Regency,Karanganyar,1970.153242,1975.817303,11131,10636
+7309,Kabupaten Pangkajene Dan Kepulauan,Sulawesi,South Sulawesi,Regency,Pangkajene Kepulauan,1581.050961,1565.602748,17205,16915
+9412,Kabupaten Mimika,Papua,Papua,Regency,Mimika,2207.410778,2828.81416,45652,50923
+7102,Kabupaten Minahasa,Sulawesi,North Sulawesi,Regency,Minahasa,2192.262445,2289.89,11803,11681
+7571,Kota Gorontalo,Sulawesi,Gorontalo,Capital City,"Gorontalo, Kota",2267.842774,2097.291745,6173,6172
+6201,Kabupaten Kotawaringin Barat,Kalimantan,Central Kalimantan,Regency,Kotawaringin Barat,2396.086783,2264.234521,12878,13004
+5204,Kabupaten Sumbawa,Nusa Tenggara,West Nusa Tenggara,Regency,Sumbawa,2937.822245,3414.671571,10471,10038
+3307,Kabupaten Wonosobo,Java -Bali,Central Java,Regency,Wonosobo,1820.397276,2108.989413,13799,13570
+3272,Kota Sukabumi,Java -Bali,West Java,City,Sukabumi,1190.002797,1004.084406,8661,8533
+1901,Kabupaten Bangka,Sumatera,Bangka Belitung Islands,Regency,Bangka,2097.480034,2299.578842,10060,9987
+1809,Kabupaten Pesawaran,Sumatera,Lampung,Regency,Pesawaran,3761.295312,3552.897128,11402,11259
+1872,Kota Metro,Sumatera,Lampung,City,Metro,1737.38281,1630.290824,4313,4235
+3373,Kota Salatiga,Java -Bali,Central Java,City,Salatiga,1518.713032,1434.039615,9666,9503
+1404,Kabupaten Pelalawan,Sumatera,Riau,Regency,Pelalawan,5683.783919,5269.519644,34336,35107
+6504,Kabupaten Nunukan,Kalimantan,North Kalimantan,Regency,Nunukan,1757.411331,1568.800325,15857,15704
+1806,Kabupaten Lampung Utara,Sumatera,Lampung,Regency,Lampung Utara,3492.613395,3362.086231,16508,16269
+1610,Kabupaten Ogan Ilir,Sumatera,South Sumatera,Regency,Ogan Ilir,4033.839757,3020.322089,7483,7493
+3304,Kabupaten Banjarnegara,Java -Bali,Central Java,Regency,Banjarnegara,1921.129624,2346.874532,15247,15046
+8171,Kota Ambon,Maluku,Maluku,Capital City,"Ambon, Kota",1882.203381,2011.046382,10395,10192
+3303,Kabupaten Purbalingga,Java -Bali,Central Java,Regency,Purbalingga,1864.284574,2288.613843,17388,17175
+3375,Kota Pekalongan,Java -Bali,Central Java,City,Pekalongan,1683.621433,1521.105018,7477,7338
+3323,Kabupaten Temanggung,Java -Bali,Central Java,Regency,Temanggung,2050.735795,2075.07466,15214,14891
+1771,Kota Bengkulu,Sumatera,Bengkulu,Capital City,Bengkulu,2357.594721,1549.878329,15339,15301
+1171,Kota Banda Aceh,Sumatera,Aceh,Capital City,Banda Aceh,4657.843189,4601.198778,15165,14666
+1602,Kabupaten Ogan Komering Ilir,Sumatera,South Sumatera,Regency,Ogan Komering Ilir,4462.068249,4776.986997,20181,20228
+1174,Kota Lhokseumawe,Sumatera,Aceh,City,Lhokseumawe,5653.893223,4301.299577,7113,7010
+3312,Kabupaten Wonogiri,Java -Bali,Central Java,Regency,Wonogiri,5282.758827,5131.950678,20856,20562
+3575,Kota Pasuruan,Java -Bali,East Java,City,Pasuruan,1504.088738,1499.208617,5965,5707
+6311,Kabupaten Balangan,Kalimantan,South Kalimantan,Regency,Balangan,2529.881239,2643.912714,9411,9178
+3306,Kabupaten Purworejo,Java -Bali,Central Java,Regency,Purworejo,1987.153791,2053.135315,13354,13132
+5371,Kota Kupang,Nusa Tenggara,East Nusa Tenggara,Capital City,Kupang,3844.000655,4694.167061,16694,16351
+3571,Kota Kediri,Java -Bali,East Java,City,Kediri,2065.888218,1889.587773,90002,84375
+5102,Kabupaten Tabanan,Java -Bali,Bali,Regency,Tabanan,2796.462218,2772.941557,15785,14816
+3403,Kabupaten Gunung Kidul,Java -Bali,Yogyakarta,Regency,Gunung Kidul,4494.987713,3450.885423,13605,13513
+1808,Kabupaten Tulangbawang,Sumatera,Lampung,Regency,Tulang Bawang Barat,2952.667575,3252.174385,15827,15612
+1804,Kabupaten Lampung Timur,Sumatera,Lampung,Regency,Lampung Timur,7937.076764,7898.87426,29606,28930
+1409,Kabupaten Rokan Hilir,Sumatera,Riau,Regency,Rokan Hilir,4052.018302,3339.273811,46437,45993
+3579,Kota Batu,Java -Bali,East Java,City,Kota Batu,2326.954291,2205.80337,11787,11026
+6303,Kabupaten Banjar,Kalimantan,South Kalimantan,Regency,Banjar,3388.418362,3231.193411,11968,11734
+1971,Kota Pangkal Pinang,Sumatera,Bangka Belitung Islands,Capital City,Pangkal Pinang,2479.917444,2572.934811,9071,8798
+3376,Kota Tegal,Java -Bali,Central Java,City,Tegal,2457.44048,1833.12724,11205,10953
+2102,Kabupaten Bintan,Sumatera,Riau Islands,Regency,Bintan,3432.706567,3768.360689,14540,13918
+1506,Kabupaten Tanjung Jabung Timur,Sumatera,Jambi,Regency,Tanjung Jabung Timur,2717.952029,1646.328009,17968,17273
+3502,Kabupaten Ponorogo,Java -Bali,East Java,Regency,Ponorogo,4793.387371,4312.402371,14297,14169
+1503,Kabupaten Sarolangun,Sumatera,Jambi,Regency,Sarolangun,1893.595773,1080.879891,10758,10729
+6302,Kabupaten Kota Baru,Kalimantan,South Kalimantan,Regency,Kota Baru,2200.25859,2040.255115,17644,17313
+3601,Kabupaten Pandeglang,Java -Bali,Banten,Regency,Pandeglang,4434.220535,4643.098141,19706,19600
+6372,Kota Banjar Baru,Kalimantan,South Kalimantan,City,Banjar Baru,3915.428332,3454.663957,6237,6119
+7471,Kota Kendari,Sulawesi,Southeast Sulawesi,Capital City,Kendari City,3435.346154,3985.506053,16745,16527
+3520,Kabupaten Magetan,Java -Bali,East Java,Regency,Magetan,3588.020725,3654.669339,13237,13021
+3305,Kabupaten Kebumen,Java -Bali,Central Java,Regency,Kebumen,2449.590472,2551.489112,19815,19526
+3602,Kabupaten Lebak,Java -Bali,Banten,Regency,Lebak,4032.88639,4584.364046,20830,20647
+5108,Kabupaten Buleleng,Java -Bali,Bali,Regency,Buleleng,3956.998683,4104.727883,23430,22080
+3274,Kota Cirebon,Java -Bali,West Java,City,Cirebon,2092.656002,1927.471656,16812,16645
+6402,Kabupaten Kutai Barat,Kalimantan,East Kalimantan,Regency,Kutai Barat,2936.287183,2789.10189,21249,20628
+7308,Kabupaten Maros,Sulawesi,South Sulawesi,Regency,Maros,4837.551977,4599.258319,13726,12234
+5202,Kabupaten Lombok Tengah,Nusa Tenggara,West Nusa Tenggara,Regency,Lombok Tengah,5746.293757,5701.38084,12400,11572
+3519,Kabupaten Madiun,Java -Bali,East Java,Regency,Madiun,4651.874285,4536.889549,13162,12940
+3574,Kota Probolinggo,Java -Bali,East Java,City,Probolinggo,2220.036782,2099.698686,8339,8035
+2172,Kota Tanjung Pinang,Sumatera,Riau Islands,Capital City,Tanjung Pinang,3100.501186,3212.198414,14437,13938
+3316,Kabupaten Blora,Java -Bali,Central Java,Regency,Blora,5166.872867,5681.319306,18318,17465
+3207,Kabupaten Ciamis,Java -Bali,West Java,Regency,Ciamis,3470.746204,3268.083048,22001,21970
+5203,Kabupaten Lombok Timur,Nusa Tenggara,West Nusa Tenggara,Regency,Lombok Timur,4564.791803,5113.789235,14424,13978
+1601,Kabupaten Ogan Komering Ulu,Sumatera,South Sumatera,Regency,Ogan Komering Ulu,1742.326952,1880.736996,9868,9867
+5201,Kabupaten Lombok Barat,Nusa Tenggara,West Nusa Tenggara,Regency,Lombok Barat,4806.139615,4725.561652,10895,10124
+3317,Kabupaten Rembang,Java -Bali,Central Java,Regency,Rembang,5166.952376,5222.232302,13612,13410
+6301,Kabupaten Tanah Laut,Kalimantan,South Kalimantan,Regency,Tanah Laut,3638.462314,3430.978445,10369,10162
+7271,Kota Palu,Sulawesi,Central Sulawesi,Capital City,Palu,5105.916464,4658.475131,16202,15467
+5271,Kota Mataram,Nusa Tenggara,West Nusa Tenggara,Capital City,Mataram,3675.584307,3317.342747,13812,13052
+3308,Kabupaten Magelang,Java -Bali,Central Java,Regency,Magelang,3716.103073,3844.889313,23253,22861
+3325,Kabupaten Batang,Java -Bali,Central Java,Regency,Batang,4879.926774,4538.815662,15227,15031
+3471,Kota Yogyakarta,Java -Bali,Yogyakarta,Capital City,Yogyakarta,3435.030154,3103.136051,27685,27015
+6310,Kabupaten Tanah Bumbu,Kalimantan,South Kalimantan,Regency,Tanah Bumbu,5450.357455,4965.373875,15621,15392
+5207,Kabupaten Sumbawa Barat,Nusa Tenggara,West Nusa Tenggara,Regency,Sumbawa Barat,3125.137716,3235.24397,12786,16465
+3521,Kabupaten Ngawi,Java -Bali,East Java,Regency,Ngawi,5595.972249,5794.766702,13711,13480
+2101,Kabupaten Karimun,Sumatera,Riau Islands,Regency,Karimun,3466.985617,3680.767268,9457,9117
+3277,Kota Cimahi,Java -Bali,West Java,City,Cimahi,2580.801099,2552.577379,22856,22341
+6112,Kabupaten Kubu Raya,Kalimantan,West Kalimantan,Regency,Kubu Raya,5851.186849,4729.717,18276,17833
+6405,Kabupaten Berau,Kalimantan,East Kalimantan,Regency,Berau,6027.637895,5549.098773,28271,27322
+6309,Kabupaten Tabalong,Kalimantan,South Kalimantan,Regency,Tabalong,3746.126378,4845.018824,14878,14488
+3511,Kabupaten Bondowoso,Java -Bali,East Java,Regency,Bondowoso,3807.375879,4168.359678,13637,13452
+9107,Kabupaten Sorong,Papua,Papua Barat,Regency,Sorong,3568.067026,1708.265232,8600,8385
+3206,Kabupaten Tasikmalaya,Java -Bali,West Java,Regency,Tasikmalaya,5959.656048,5341.751465,24587,24346
+7306,Kabupaten Gowa,Sulawesi,South Sulawesi,Regency,Gowa,6370.200769,5965.016742,13783,14026
+3512,Kabupaten Situbondo,Java -Bali,East Java,Regency,Situbondo,5068.142556,5265.314024,13600,13283
+3326,Kabupaten Pekalongan,Java -Bali,Central Java,Regency,Pekalongan,4716.904435,4743.999545,16356,16048
+3327,Kabupaten Pemalang,Java -Bali,Central Java,Regency,Pemalang,4966.905523,5006.85412,18267,18147
+3518,Kabupaten Nganjuk,Java -Bali,East Java,Regency,Nganjuk,5733.856642,5185.697587,18304,17990
+6502,Kabupaten Bulungan,Kalimantan,North Kalimantan,Regency,Bulungan,3348.843578,2536.449811,11627,11551
+3278,Kota Tasikmalaya,Java -Bali,West Java,City,Tasikmalaya,5230.741336,4819.64667,15746,15430
+3313,Kabupaten Karanganyar,Java -Bali,Bali,Regency,Karangasem,7902.847143,7429.920897,26641,26143
+5104,Kabupaten Gianyar,Java -Bali,Bali,Regency,Gianyar,4270.594218,3734.237598,19038,17442
+7171,Kota Manado,Sulawesi,North Sulawesi,Capital City,Manado,4314.59377,4109.010761,25581,24781
+3315,Kabupaten Grobogan,Java -Bali,Central Java,Regency,Grobogan,7759.596118,7972.578252,19693,19380
+1604,Kabupaten Lahat,Sumatera,South Sumatera,Regency,Lahat,3225.423453,2474.171217,12382,12427
+3504,Kabupaten Tulungagung,Java -Bali,East Java,Regency,Tulungagung,5990.150215,5740.408832,27300,26456
+3508,Kabupaten Lumajang,Java -Bali,East Java,Regency,Lumajang,4817.607759,5109.140794,22563,21934
+3208,Kabupaten Kuningan,Java -Bali,West Java,Regency,Kuningan,5944.220319,5637.524125,16864,16879
+6107,Kabupaten Sintang,Kalimantan,West Kalimantan,Regency,Sintang,636.5717396,603.7320174,9588,9379
+3324,Kabupaten Kendal,Java -Bali,Central Java,Regency,Kendal,6392.9152110000005,6030.031412,30916,30444
+1406,Kabupaten Kampar,Sumatera,Riau,Regency,Kampar,11983.25237,8504.545441,51889,51424
+3505,Kabupaten Blitar,Java -Bali,East Java,Regency,Blitar,6824.398314,6840.657096,25530,24945
+3372,Kota Surakarta,Java -Bali,Central Java,City,Surakarta,4184.401222,3966.837798,35443,34827
+3314,Kabupaten Sragen,Java -Bali,Central Java,Regency,Sragen,8391.129838,7790.911648,26853,26367
+6401,Kabupaten Paser,Kalimantan,East Kalimantan,Regency,Pasir,4242.229221,4038.776142,35727,34737
+3673,Kota Serang,Java -Bali,Banten,Capital City,Serang,6404.751323,6627.898643,22813,22518
+3402,Kabupaten Bantul,Java -Bali,Yogyakarta,Regency,Bantul,7553.002252,7267.568858,19155,18838
+1471,Kota Pekanbaru,Sumatera,Riau,Capital City,Pekanbaru,18907.77837,15942.60038,72182,69017
+3210,Kabupaten Majalengka,Java -Bali,West Java,Regency,Majalengka,6063.524585,5920.451597,21550,21737
+3529,Kabupaten Sumenep,Java -Bali,East Java,Regency,Sumenep,7318.012778,8056.082447,23816,23547
+3527,Kabupaten Sampang,Java -Bali,East Java,Regency,Sampang,9502.652779,10069.37725,13995,13954
+1607,Kabupaten Banyu Asin,Sumatera,South Sumatera,Regency,Banyuasin,6675.903331,6476.10549,19973,20000
+6471,Kota Balikpapan,Kalimantan,East Kalimantan,City,Balikpapan,7730.335365,7743.174378,83679,83098
+1805,Kabupaten Lampung Tengah,Sumatera,Lampung,Regency,Lampung Tengah,11770.11896,10845.09862,47838,47348
+3309,Kabupaten Boyolali,Java -Bali,Central Java,Regency,Boyolali,8008.481619,7412.515198,22681,22400
+1612,Kabupaten Penukal Abab Lematang Ilir,Sumatera,South Sumatera,Regency,Penukal Abab Lematang Ilir,2561.757024,2696.116026,4704,4717
+6371,Kota Banjarmasin,Kalimantan,South Kalimantan,Capital City,Banjarmasin,4655.013327,4426.334975,22353,21927
+1571,Kota Jambi,Sumatera,Jambi,Capital City,Jambi,7327.154285,7499.565027,19561,18919
+1473,Kota Dumai,Sumatera,Riau,City,Dumai,10042.89861,7887.666106,24856,24596
+3322,Kabupaten Semarang,Java -Bali,Central Java,Regency,Semarang,7072.700573,6490.81778,35639,34688
+1405,Kabupaten Siak,Sumatera,Riau,Regency,Siak,14086.66816,10112.81828,53367,53314
+1803,Kabupaten Lampung Selatan,Sumatera,Lampung,Regency,Lampung Selatan,15224.90115,14712.74488,30269,29744
+3211,Kabupaten Sumedang,Java -Bali,West Java,Regency,Sumedang,5315.55876,5533.221125,23933,23665
+3319,Kabupaten Kudus,Java -Bali,Central Java,Regency,Kudus,6647.241946,6169.575506,73250,70662
+3311,Kabupaten Sukoharjo,Java -Bali,Central Java,Regency,Sukoharjo,8225.986222,8015.981363,27076,26617
+1371,Kota Padang,Sumatera,West Sumatera,Capital City,Padang,8582.697806,8640.427576,44459,43631
+1672,Kota Prabumulih,Sumatera,South Sumatera,City,Prabumulih,2887.116858,3405.252198,5385,5375
+6171,Kota Pontianak,Kalimantan,West Kalimantan,Capital City,Pontianak,7819.857336,6652.246148,24833,23847
+3321,Kabupaten Demak,Java -Bali,Central Java,Regency,Demak,8798.06261,8007.428499,18417,18375
+3573,Kota Malang,Java -Bali,East Java,City,Malang,6286.941188,5967.068111,52335,51155
+3271,Kota Bogor,Java -Bali,West Java,City,Bogor,7620.752042,6908.403428,32254,32084
+3302,Kabupaten Banyumas,Java -Bali,Central Java,Regency,Banyumas,6922.280288,7045.268916,39779,39122
+3528,Kabupaten Pamekasan,Java -Bali,East Java,Regency,Pamekasan,9042.718848,9507.708891,11407,11118
+1505,Kabupaten Muaro Jambi,Sumatera,Jambi,Regency,Muaro Jambi,6770.548529,5376.697155,16152,16195
+3328,Kabupaten Tegal,Java -Bali,Central Java,Regency,Tegal,10886.90209,10322.25338,24867,24503
+3320,Kabupaten Jepara,Java -Bali,Central Java,Regency,Jepara,7494.873777,7315.827457,21384,20970
+3506,Kabupaten Kediri,Java -Bali,East Java,Regency,Kediri,9430.656433,9189.268631,29194,28491
+3205,Kabupaten Garut,Java -Bali,West Java,Regency,Garut,6172.885562,6344.498504,39092,38598
+3329,Kabupaten Brebes,Java -Bali,Central Java,Regency,Brebes,10756.57187,9286.156152,32836,32641
+5171,Kota Denpasar,Java -Bali,Bali,Capital City,Denpasar,6402.725259,5987.643924,36153,32748
+3318,Kabupaten Pati,Java -Bali,Central Java,Regency,Pati,10293.4312,10104.55747,30900,30546
+3310,Kabupaten Klaten,Java -Bali,Central Java,Regency,Klaten,9155.158729,8646.282836,27812,27483
+6474,Kota Bontang,Kalimantan,East Kalimantan,City,Bontang,7320.7199,6589.354563,40423,39309
+3517,Kabupaten Jombang,Java -Bali,East Java,Regency,Jombang,10230.25519,10103.04995,28216,27658
+3524,Kabupaten Lamongan,Java -Bali,East Java,Regency,Lamongan,10725.46896,11303.39301,27706,26973
+3214,Kabupaten Purwakarta,Java -Bali,West Java,Regency,Purwakarta,7571.017667,7632.02184,46282,45333
+1408,Kabupaten Bengkalis,Sumatera,Riau,Regency,Bengkalis,12205.80491,10716.43218,76377,73856
+3301,Kabupaten Cilacap,Java -Bali,Central Java,Regency,Cilacap,10948.31956,9358.492819,100328,89935
+3526,Kabupaten Bangkalan,Java -Bali,East Java,Regency,Bangkalan,9695.490226,10138.63883,18551,17515
+3202,Kabupaten Sukabumi,Java -Bali,West Java,Regency,Sukabumi,7194.238304,6542.04974,46704,46199
+3203,Kabupaten Cianjur,Java -Bali,West Java,Regency,Cianjur,6809.243237,6127.084965,32040,31789
+3404,Kabupaten Sleman,Java -Bali,Yogyakarta,Regency,Sleman,10092.6074,9482.489369,35287,33906
+3672,Kota Cilegon,Java -Bali,Banten,City,Cilegon,11285.42937,10199.55485,74249,73597
+3510,Kabupaten Banyuwangi,Java -Bali,East Java,Regency,Banyuwangi,29317.42938,30735.42211,55274,53295
+3522,Kabupaten Bojonegoro,Java -Bali,East Java,Regency,Bojonegoro,11655.49728,11824.36108,69986,69703
+1871,Kota Bandar Lampung,Sumatera,Lampung,Capital City,Bandar Lampung,12655.40683,12189.24796,39386,38657
+1212,Kabupaten Deli Serdang,Sumatera,North Sumatera,Regency,Deli Serdang,31239.53973,25986.49639,71879,70597
+6404,Kabupaten Kutai Timur,Kalimantan,East Kalimantan,Regency,Kutai Timur,12455.41088,13020.92571,95661,92586
+3604,Kabupaten Serang,Java -Bali,Banten,Regency,Serang,16892.58599,16785.76866,54350,53287
+6472,Kota Samarinda,Kalimantan,East Kalimantan,Capital City,Samarinda,9689.11117,9537.366409,45486,45000
+3217,Kabupaten Bandung Barat,Java -Bali,West Java,Regency,Bandung Barat,7128.136448,7436.429791,31398,30640
+3513,Kabupaten Probolinggo,Java -Bali,East Java,Regency,Probolinggo,8744.864887,8749.227014,23395,22898
+3516,Kabupaten Mojokerto,Java -Bali,East Java,Regency,Mojokerto,21712.20855,21835.72925,58467,57818
+5103,Kabupaten Badung,Java -Bali,Bali,Regency,Badung,10376.76591,7711.970807,37325,31160
+3209,Kabupaten Cirebon,Java -Bali,West Java,Regency,Cirebon,13508.08882,13123.76022,33668,33304
+3213,Kabupaten Subang,Java -Bali,West Java,Regency,Subang,13137.73963,14320.23664,28617,28252
+1275,Kota Medan,Sumatera,North Sumatera,Capital City,Medan,30527.00385,23374.51265,156781,153670
+7325,Kabupaten Luwu Timur,Sulawesi,South Sulawesi,Regency,Luwu Timur,2776.960575,5921.966949,16023,16257
+1507,Kabupaten Tanjung Jabung Barat,Sumatera,Jambi,Regency,Tanjung Jabung Barat,10211.94882,7393.009494,30745,30549
+3276,Kota Depok,Java -Bali,West Java,City,Depok,14303.9258,14028.01159,49077,48132
+7371,Kota Makassar,Sulawesi,South Sulawesi,Capital City,Makassar,15258.75691,13635.26672,122466,120906
+3173,Kota Jakarta Pusat,Java -Bali,Jakarta,City,Jakarta Pusat,11117.19703,11131.6125,452519,449615
+3514,Kabupaten Pasuruan,Java -Bali,East Java,Regency,Pasuruan,15200.00154,15053.86499,105289,103153
+3509,Kabupaten Jember,Java -Bali,East Java,Regency,Jember,16919.09449,17617.57531,54200,52587
+1605,Kabupaten Musi Rawas,Sumatera,South Sumatera,Regency,Musi Rawas,4221.370483,2674.666038,13681,13714
+3674,Kota Tangerang Selatan,Java -Bali,Banten,City,Tangerang Selatan,15971.69002,15896.90035,60145,59537
+1603,Kabupaten Muara Enim,Sumatera,South Sumatera,Regency,Muara Enim,8313.748668,8359.094553,41582,41595
+3204,Kabupaten Bandung,Java -Bali,West Java,Regency,Bandung,16525.15454,16623.9788,82373,80829
+3507,Kabupaten Malang,Java -Bali,East Java,Regency,Malang,17608.49931,17962.47395,68380,66545
+3273,Kota Bandung,Java -Bali,West Java,Capital City,Bandung,12827.69388,12592.34632,197643,193145
+1606,Kabupaten Musi Banyuasin,Sumatera,South Sumatera,Regency,Musi Banyuasin,11425.23155,8065.618603,44620,44605
+1671,Kota Palembang,Sumatera,South Sumatera,Capital City,Palembang,17780.48798,16872.88543,104308,104043
+3671,Kota Tangerang,Java -Bali,Banten,City,Tangerang,21378.76076,19453.81249,110593,102942
+3374,Kota Semarang,Java -Bali,Central Java,Capital City,Semarang,20058.38916,17597.78475,140209,137951
+3275,Kota Bekasi,Java -Bali,West Java,City,Bekasi,23155.78711,22278.81272,69409,67638
+3525,Kabupaten Gresik,Java -Bali,East Java,Regency,Gresik,20034.30522,19991.3433,101347,97617
+3215,Kabupaten Karawang,Java -Bali,West Java,Regency,Karawang,31476.46972,28934.14285,163732,157850
+3174,Kota Jakarta Barat,Java -Bali,Jakarta,City,Jakarta Barat,19429.94498,17563.89483,318892,316204
+2171,Kota Batam,Sumatera,Riau Islands,City,Batam,22158.3623,22161.74881,108800,106030
+3171,Kota Jakarta Selatan,Java -Bali,Jakarta,City,Jakarta Selatan,21369.91255,18978.59423,421291,419330
+3175,Kota Jakarta Utara,Java -Bali,Jakarta,City,Jakarta Utara,23333.24976,21832.12775,332844,312332
+3172,Kota Jakarta Timur,Java -Bali,Jakarta,City,Jakarta Timur,23277.88858,21811.98936,313551,299705
+6403,Kabupaten Kutai Kartanegara,Kalimantan,East Kalimantan,Regency,Kutai Kartanegara,27610.96825,24063.85114,126160,120557
+3603,Kabupaten Tangerang,Java -Bali,Banten,Regency,Tangerang,38881.16705,37519.99946,97142,93545
+3515,Kabupaten Sidoarjo,Java -Bali,East Java,Regency,Sidoarjo,28341.58463,27835.63852,140493,135305
+3201,Kabupaten Bogor,Java -Bali,West Java,Regency,Bogor,41225.98991,38374.66132,156868,154097
+3523,Kabupaten Tuban,Java -Bali,East Java,Regency,Tuban,12923.74358,13286.74616,45356,42705
+3216,Kabupaten Bekasi,Java -Bali,West Java,Regency,Bekasi,49123.86823,45406.262,251493,243195
+3212,Kabupaten Indramayu,Java -Bali,West Java,Regency,Indramayu,15604.74848,14461.72057,60153,59200
+3578,Kota Surabaya,Java -Bali,East Java,Capital City,Surabaya,39552.39439,40099.76497,410879,390936
